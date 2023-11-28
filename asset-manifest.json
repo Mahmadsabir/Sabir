@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.b2df30a8.css",
-    "main.js": "/static/js/main.507d40f7.js",
-    "static/js/787.0d9594a3.chunk.js": "/static/js/787.0d9594a3.chunk.js",
-    "static/media/profile.jpg": "/static/media/profile.01418214281c985a42bb.jpg",
-    "static/media/sbm.pdf": "/static/media/sbm.68790f75606d4cbc7521.pdf",
-    "static/media/about.jpg": "/static/media/about.25037666cca34f8f569a.jpg",
-    "static/media/testimonial3.png": "/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
-    "static/media/testimonial2.png": "/static/media/testimonial2.39a53f7f092f07f5bceb.png",
-    "static/media/testimonial1.png": "/static/media/testimonial1.89079c1d25f2c94ceb89.png",
-    "index.html": "/index.html",
-    "main.b2df30a8.css.map": "/static/css/main.b2df30a8.css.map",
-    "main.507d40f7.js.map": "/static/js/main.507d40f7.js.map",
-    "787.0d9594a3.chunk.js.map": "/static/js/787.0d9594a3.chunk.js.map"
+    "main.css": "/Sabir/static/css/main.722fa0c5.css",
+    "main.js": "/Sabir/static/js/main.a93a6a1a.js",
+    "static/js/787.0d9594a3.chunk.js": "/Sabir/static/js/787.0d9594a3.chunk.js",
+    "static/media/profile.jpg": "/Sabir/static/media/profile.01418214281c985a42bb.jpg",
+    "static/media/sbm.pdf": "/Sabir/static/media/sbm.68790f75606d4cbc7521.pdf",
+    "static/media/about.jpg": "/Sabir/static/media/about.25037666cca34f8f569a.jpg",
+    "static/media/testimonial3.png": "/Sabir/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
+    "static/media/testimonial2.png": "/Sabir/static/media/testimonial2.39a53f7f092f07f5bceb.png",
+    "static/media/testimonial1.png": "/Sabir/static/media/testimonial1.89079c1d25f2c94ceb89.png",
+    "index.html": "/Sabir/index.html",
+    "main.722fa0c5.css.map": "/Sabir/static/css/main.722fa0c5.css.map",
+    "main.a93a6a1a.js.map": "/Sabir/static/js/main.a93a6a1a.js.map",
+    "787.0d9594a3.chunk.js.map": "/Sabir/static/js/787.0d9594a3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b2df30a8.css",
-    "static/js/main.507d40f7.js"
+    "static/css/main.722fa0c5.css",
+    "static/js/main.a93a6a1a.js"
   ]
 }
